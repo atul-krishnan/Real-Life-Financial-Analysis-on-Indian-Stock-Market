@@ -32,8 +32,7 @@ Post installation run in cmd
 
 
 ## 🚀 About Me
-I'm working as a Data Analyst who loves to solve real life 
-problems based on data. I also a freelancer ...
+I am a Data Analyst with a creative attitude to problem solving . I like to take up freelance projects in my free time and love to meet and network with people and get their perspective . :)
 
 
 ## Acknowledgements
